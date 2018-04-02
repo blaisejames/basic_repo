@@ -2,3 +2,9 @@ body {
   background-color: white;
   font-family: 'Montserrat', sans-serif;
 }
+
+.navig li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+}
